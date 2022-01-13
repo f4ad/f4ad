@@ -10,7 +10,7 @@
 </a>
 
 <br>
-<p>Hi, I'm <a href="https://twitter.com/_fah4d" rel="nofollow">Fahad Al summan</a>, a passionate self-taught Full Stack web developer and a freelance software engineer from Saudi Arabia.Moreover, I will complete my higher education in Data Science at DePaul University in the U.S, and I will consider this time to enhance my skills in Python and Data. Besides, I have a passion for acquiring more information and boosting my knowledge about Laravel and PHP in order to be a joiner in this field. </p>
+<p>Hi, I'm <a href="https://twitter.com/_fah4d" rel="nofollow">Fahad Al summan</a>, a passionate self-taught Full Stack web developer and a freelance software engineer from Saudi Arabia.Moreover, I will complete my higher education in Cybersecurity  at DePaul University in the U.S, and I will consider this time to enhance my skills in Python and Data. Besides, I have a passion for acquiring more information and boosting my knowledge about Laravel and PHP in order to be a joiner in this field. </p>
 
   <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;"></a></p>
 <ul>
