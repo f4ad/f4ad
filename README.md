@@ -31,6 +31,7 @@
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On:</strong></p>
 
 <pre lang="text"><code>
+Java.        9 hrs 13 mins   ████████████████████░░░░░   65.80 % 
 Laravel      7 hrs 13 mins   ██████████████▒░░░░░░░░░░   56.80 % 
 PHP          2 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   22.01 % 
 Python       59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
